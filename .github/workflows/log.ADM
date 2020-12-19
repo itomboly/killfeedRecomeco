@@ -1,0 +1,96 @@
+
+
+******************************************************************************
+AdminLog started on 2020-12-18 at 12:14:56
+12:17:36 | Player "DenisTomboly" is connected (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5)
+12:21:33 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6507.5, 2655.1, 9.3>)[HP: 91.8581] hit by FallDamage
+12:22:27 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6494.9, 2666.8, 9.3>)[HP: 37.1453] hit by FallDamage
+12:22:28 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6493.9, 2668.1, 9.3>) is unconscious
+12:22:31 | Player "DenisTomboly" (DEAD) (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6494.7, 2667.8, 9.3>) died. Stats> Water: 613.584 Energy: 494.513 Bleed sources: 0
+12:54:51 | Player "DenisTomboly" (DEAD) (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6479.6, 2698.2, 10.8>) died. Stats> Water: 698.36 Energy: 0 Bleed sources: 0
+13:29:04 | Player "DenisTomboly"(id=57F7EA70D98F50C41E2AB63D74315806631D0FB5) has been disconnected
+14:43:17 | Player "DenisTomboly" is connected (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5)
+14:46:03 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6455.2, 2713.8, 9.3>)[HP: 31.8189] hit by FallDamage
+14:46:04 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6454.9, 2714.1, 9.3>) is unconscious
+14:46:06 | Player "DenisTomboly" (DEAD) (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6454.8, 2715, 9.3>) died. Stats> Water: 608.627 Energy: 483.389 Bleed sources: 0
+14:51:05 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6274.0, 2647.2, 8.2>)[HP: 98.3125] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie)
+14:51:08 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6272.6, 2647.3, 8.2>)[HP: 96.8052] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie)
+14:53:22 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6300.7, 2730.5, 8.7>)[HP: 97.525] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+14:53:23 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6300.6, 2730.5, 8.7>)[HP: 95.1403] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+14:53:53 | Player "DenisTomboly"(id=57F7EA70D98F50C41E2AB63D74315806631D0FB5) has been disconnected
+20:27:21 | Player "DenisTomboly" is connected (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5)
+20:31:31 | Player 'DenisTomboly' (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5) committed suicide.
+20:31:37 | Player "DenisTomboly" (DEAD) (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6443.3, 2724.9, 9.3>) died. Stats> Water: 682.165 Energy: 440.094 Bleed sources: 1
+20:36:00 | Player "ampsite" is connected (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5)
+20:37:24 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6423.8, 2723.3, 9.3>)[HP: 92.3958] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+20:39:04 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6450.3, 2710.7, 9.3>)[HP: 84.1529] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6451.5, 2711.1, 9.3>) into RightArm(17) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:39:05 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6450.3, 2710.7, 9.3>)[HP: 50.2431] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6451.5, 2710.9, 9.3>) into Torso(1) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:39:05 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6450.3, 2710.7, 9.3>)[HP: 16.2431] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6451.4, 2711.0, 9.3>) into Torso(1) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:39:06 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6450.3, 2710.7, 9.3>)[HP: 5.02306] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6451.5, 2711.0, 9.3>) into RightArm(31) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:39:07 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6450.3, 2710.7, 9.3>)[HP: 0] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6451.5, 2710.8, 9.3>) into RightArm(30) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:39:07 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6450.3, 2710.7, 9.3>) killed by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6451.5, 2710.8, 9.3>) with Firefighter Axe
+20:45:25 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6398.4, 2729.6, 9.3>)[HP: 61.5351] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6398.5, 2730.9, 9.3>) into Torso(16) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:45:26 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6398.4, 2729.6, 9.3>)[HP: 27.5351] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6398.5, 2730.9, 9.3>) into Torso(1) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:45:28 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6398.4, 2729.6, 9.3>)[HP: 0] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6398.9, 2730.7, 9.3>) into Torso(16) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:45:28 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6398.4, 2729.6, 9.3>) killed by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6398.9, 2730.7, 9.3>) with Firefighter Axe
+20:54:52 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6423.9, 2729.0, 10.3>)[HP: 57.7783] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6423.4, 2727.7, 10.3>) into Head(0) for 17 damage (MeleeFireAxe) with Firefighter Axe
+20:54:53 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6423.9, 2729.0, 10.3>)[HP: 53.1555] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6423.2, 2727.9, 10.3>) into RightHand(47) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:54:54 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6423.9, 2729.0, 10.3>)[HP: 41.9355] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6423.0, 2728.2, 10.3>) into RightArm(20) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:54:55 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6423.9, 2729.0, 10.3>)[HP: 30.7155] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6422.8, 2728.5, 10.3>) into RightArm(31) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:54:55 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6423.9, 2729.0, 10.3>)[HP: 19.3928] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6422.8, 2728.8, 10.3>) into RightArm(31) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:54:56 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6423.9, 2729.0, 10.3>)[HP: 0] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6422.8, 2729.1, 10.2>) into Torso(16) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:54:56 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6423.9, 2729.0, 10.3>) killed by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6422.8, 2729.1, 10.2>) with Firefighter Axe
+20:56:36 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6417.9, 2784.1, 9.3>)[HP: 95.7541] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+20:56:49 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6423.0, 2727.6, 9.8>)[HP: 93.4868] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+20:57:07 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 90.7325] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+20:57:08 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 89.045] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombie)
+20:57:09 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 86.4977] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+20:57:11 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 84.0227] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+20:57:12 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 82.2636] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie)
+20:57:14 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 74.7636] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie_Heavy)
+20:57:15 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 72.215] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+20:57:17 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 64.715] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie)
+20:57:19 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 62.1652] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+20:57:20 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 54.6652] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie)
+20:57:22 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 52.1147] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+20:57:23 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 49.6397] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie_Heavy)
+20:57:25 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 47.0884] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+20:57:27 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 44.6134] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie)
+20:57:28 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 37.0362] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie)
+20:57:30 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 29.5362] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie)
+20:57:31 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 27.7704] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombie)
+20:57:33 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.5, 2732.2, 9.3>)[HP: 26.0829] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombie_Heavy)
+20:57:34 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>)[HP: 18.5027] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie_Heavy)
+20:57:36 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>)[HP: 15.9463] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+20:57:38 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>)[HP: 14.2588] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombie_Heavy)
+20:57:40 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>)[HP: 11.6989] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+20:57:41 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>)[HP: 9.22395] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombie)
+20:57:42 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>)[HP: 7.45045] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie_Heavy)
+20:57:44 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>)[HP: 5.76295] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie)
+20:57:46 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>)[HP: 3.98894] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie_Heavy)
+20:57:47 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>)[HP: 0] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie_Heavy)
+20:57:47 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6419.4, 2732.2, 9.3>) killed by ZmbF_SurvivorNormal_Orange
+20:58:58 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6409.8, 2728.3, 9.3>)[HP: 87.3049] hit by Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6408.8, 2727.6, 9.3>) into LeftArm(21) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:59:00 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6409.8, 2728.3, 9.3>)[HP: 53.2198] hit by Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6409.5, 2727.2, 9.3>) into Torso(1) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:59:01 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6409.8, 2728.3, 9.3>)[HP: 34.9837] hit by Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6409.6, 2727.3, 9.3>) into LeftArm(22) for 55 damage (MeleeFireAxe_Heavy) with Firefighter Axe
+20:59:03 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6410.0, 2729.4, 9.3>)[HP: 23.7637] hit by Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6410.1, 2728.4, 9.3>) into LeftArm(32) for 34 damage (MeleeFireAxe) with Firefighter Axe
+20:59:06 | Player "DenisTomboly" (DEAD) (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6410.0, 2729.4, 9.3>)[HP: 0] hit by Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6410.1, 2728.3, 9.3>) into Torso(25) for 55 damage (MeleeFireAxe_Heavy) with Firefighter Axe
+20:59:06 | Player "DenisTomboly" (DEAD) (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6410.0, 2729.4, 9.3>) killed by Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6410.1, 2728.3, 9.3>) with Firefighter Axe
+21:00:44 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6409.7, 2728.0, 9.3>)[HP: 66] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6409.3, 2729.1, 9.3>) into Torso(14) for 34 damage (MeleeFireAxe) with Firefighter Axe
+21:07:14 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6410.9, 2728.1, 9.3>)[HP: 14.7851] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6410.4, 2726.9, 9.3>) into Torso(12) for 55 damage (MeleeFireAxe_Heavy) with Firefighter Axe
+21:07:18 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6410, 2728.8, 9.3>)[HP: 3.47537] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6410.3, 2727.7, 9.3>) into LeftArm(22) for 34 damage (MeleeFireAxe) with Firefighter Axe
+21:07:19 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6410, 2728.8, 9.3>)[HP: 0] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6410.4, 2727.7, 9.3>) into LeftArm(22) for 34 damage (MeleeFireAxe) with Firefighter Axe
+21:07:19 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6410, 2728.8, 9.3>) killed by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6410.4, 2727.7, 9.3>) with Firefighter Axe
+21:14:50 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6403.4, 2734.6, 9.3>)[HP: 77.3182] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6457.1, 2724.4, 9.5>) into RightArm(20) for 26 damage (Bullet_9x19) with Mlock-91 from 54.6071 meters 
+21:14:50 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6403.4, 2734.6, 9.3>)[HP: 70.767] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6457.1, 2724.4, 9.5>) into Torso(24) for 6.55118 damage (Bullet_9x19) with Mlock-91 from 54.6071 meters 
+21:15:11 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6418.4, 2732.4, 9.3>)[HP: 61.9437] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6456.4, 2724.6, 9.5>) into RightArm(19) for 26 damage (Bullet_9x19) with Mlock-91 from 38.8091 meters 
+21:15:13 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6424.3, 2731.2, 9.6>)[HP: 53.3637] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6456.4, 2724.6, 9.5>) into RightArm(17) for 26 damage (Bullet_9x19) with Mlock-91 from 32.8078 meters 
+21:15:14 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6429.0, 2730.1, 9.3>)[HP: 46.8637] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6456.4, 2724.6, 9.5>) into LeftLeg(11) for 26 damage (Bullet_9x19) with Mlock-91 from 27.9759 meters 
+21:15:15 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6435.7, 2728.7, 9.3>)[HP: 20.9297] hit by Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6456.4, 2724.6, 9.5>) into Torso(16) for 26 damage (Bullet_9x19) with Mlock-91 from 21.1542 meters 
+21:15:19 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6443.8, 2727.1, 9.3>)[HP: 19.3009] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombie)
+21:15:20 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6444.0, 2725.2, 9.3>)[HP: 16.8754] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombie_Heavy)
+21:15:23 | Player "ampsite" (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6451.1, 2717.0, 9.3>)[HP: 9.41753] hit by Infected into Torso(1) for 7.5 damage (MeleeZombie)
+21:15:47 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6457.0, 2712.1, 10.8>) died. Stats> Water: 632.547 Energy: 364.303 Bleed sources: 6
+21:15:47 | Player "ampsite" (DEAD) (id=10A1F65D30E203734DE43C5F589E9B2DACA39AA5 pos=<6457.0, 2712.1, 10.8>) bled out
+21:18:24 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6363.3, 2490.0, 9.3>)[HP: 94.9375] hit by Infected into Torso(1) for 5.0625 damage (MeleeZombie_Heavy)
+21:19:22 | Player "DenisTomboly" (id=57F7EA70D98F50C41E2AB63D74315806631D0FB5 pos=<6430.7, 2445.3, 6.0>)[HP: 94.4808] hit by FallDamage
